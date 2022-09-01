@@ -1,2 +1,1 @@
-my shell read me file
-enjoying alx
+Display the content list of your directory in a long format
