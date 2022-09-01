@@ -1,2 +1,5 @@
+/tmp/file_0.html
 #!/bin/bash
 cp -rua *.html
+/tmp/file_1.html
+/tmp/file_2.html
